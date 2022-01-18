@@ -5,7 +5,7 @@ rule all:
     input:
         "plots/quals.svg"
 
-
+include "rules/bwa.smk"
 #rule bwa_map:
 #    input:
 #        "data/genome.fa",
