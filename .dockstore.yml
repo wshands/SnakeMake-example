@@ -3,5 +3,5 @@ workflows:
    - subclass: smk
      primaryDescriptorPath: /workflow/Snakefile
      authors:
-       - name: Walt Shands
+       - name: Walter Shands
          email: jshands@ucsc.edu
